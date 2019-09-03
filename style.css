@@ -1,0 +1,56 @@
+@charset "utf-8";
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: local('Roboto Thin'), local('Roboto-Thin'), url(https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxIIzI.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: local('Roboto Condensed Light'), local('RobotoCondensed-Light'), url(https://fonts.gstatic.com/s/robotocondensed/v18/ieVi2ZhZI2eCN5jzbjEETS9weq8-33mZGCQYbw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* Elements */
+* { box-sizing: border-box; }
+
+::selection {
+  color: #fff;
+  background: rgba(0, 0, 0, 0.1);
+}
+
+html { font-size: 16px; }
+
+body {
+  margin: 0;
+  color: #666;
+  height: 100vh;
+  text-align: center;
+  font-family: "Roboto Condensed", sans-serif;
+  background: url("joanna-kosinska-unsplash-overlay.jpg") no-repeat center center fixed;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: #333;
+  margin: 0 auto;
+  font: 4rem "Roboto";
+  text-shadow: 1px 2px 2px #aaa;
+}
+
+small {
+  position: absolute;
+  bottom: 4rem;
+}
