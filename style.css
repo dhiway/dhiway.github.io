@@ -6,7 +6,7 @@ body {
 body {
 	margin: 0;
 	font-family: 'Source Sans Pro', sans-serif;
-	background-color: #27aae1;
+	background-color: #040404;
 }
 img {
 	max-width: 100%;
@@ -16,8 +16,8 @@ h1 {
 }
 
 .content {
-	padding-left: calc( (110 / 1200) * 100%);
-	padding-right: calc( (110 / 1200) * 100%);
+	padding-left: calc( (220 / 1200) * 100%);
+	padding-right: calc( (220 / 1200) * 100%);
 	padding-top: 15px;
 	padding-bottom: 15px;
 	display: flex;
@@ -27,7 +27,13 @@ h1 {
 
 .content__wrap {
 	font-size: 15px;
-	line-height: 25px;	
+	line-height: 25px;
+	max-width: 440px;
+	margin: 0 auto;
+}
+
+.content__wrap__figure {
+	text-align: center;
 }
 
 .content__title {
@@ -35,21 +41,15 @@ h1 {
 }
 
 .content__description {
-	color: #ffffff;
-	font-size: 20px;
-	line-height: 30px;
-	margin-top: 5px;
+	color: #39addf;
+	font-size: 18px;
+	line-height: 26px;
+	margin-top: 20px;
+	text-align: center;
 }
 
 .content__description span {
 	font-weight: 600;
-}
-
-.content__tagline {
-	font-weight: 600;
-	text-transform: uppercase;
-	color: #494949;
-	margin-top: 15px;
 }
 
 .content__contact {
@@ -59,17 +59,47 @@ h1 {
 	margin-top: 10px;
 }
 
+.content__social {
+	text-align: center;
+	margin-top: 20px;
+}
+
+.content__social a {
+	display: inline-block;
+	max-width: 35px;
+}
+
+.content__social a + a {
+	margin-left: 10px;
+}
+
 @media screen and (min-width: 769px) {
+
+	body {
+		background: url(./logo-bg.png) no-repeat right center;
+		background-size: auto 75%;
+		background-color: #040404;
+	}
+
+	.content {
+		padding-left: calc( (110 / 1200) * 100%);
+		padding-right: calc( (110 / 1200) * 100%);
+	}
 
 	.content__wrap {
 		font-size: 21px;
 		line-height: 33px;
 		display: flex;
+		max-width: 100%;
+		margin: 0;
 	}
 
 	.content__wrap__figure {
-		order: 2;
-		width: 30%;
+		display: none;
+	}
+
+	.content__title {
+		max-width: 500px;
 	}
 
 	.content__wrap__text {
@@ -80,14 +110,44 @@ h1 {
 	.content__description {
 		font-size: 31px;
 		line-height: 43px;
-		margin-top: 15px;
+		text-align: left;
 	}
 
-	.content__tagline {
+	.content__social {
+		margin-top: 35px;
+		text-align: left;
+	}
+
+	.content__social a {
+		max-width: 80px;
+	}
+
+	.content__social a + a {
+		margin-left: 20px;
+	}
+}
+
+@media screen and (min-width: 1920px) {
+
+	.content__social {
 		margin-top: 75px;
 	}
 
-	.content__contact {
-		margin-top: 25px;
+	.content__title {
+		max-width: 100%;
+	}
+
+	.content__description {
+		font-size: 35px;
+		line-height: 52px;
+		margin-top: 45px;
+	}
+
+	.content__social a {
+		max-width: 140px;
+	}
+
+	.content__social a + a {
+		margin-left: 30px;
 	}
 }
