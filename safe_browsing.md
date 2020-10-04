@@ -1,4 +1,4 @@
-title: [Safe Browsing]
+Safe Browsing
 
 **Safe Browsing** is a service built to identify unsafe websites across the web and notify users of potential harm.
 
