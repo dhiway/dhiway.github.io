@@ -76,17 +76,11 @@ This Agreement will be construed, interpreted and applied in accordance with the
 #### 12.3 Dispute Resolution.
  
 * If any dispute, controversy or claim among the Parties arises out of or in connection with this Agreement or a Secondary Agreement, including the breach, termination or invalidity hereof (“Dispute”), the Parties shall use all reasonable endeavours to negotiate with a view to resolving the Dispute amicably in good faith. If a Party gives the other Parties notice that a Dispute has arisen (a “Dispute Notice”) and the Parties are unable to so resolve the Dispute amicably within fifteen (15) days of the date of service of the Dispute Notice (or such longer period as the Parties may mutually agree prior thereto), then the Dispute shall be referred to and finally resolved by arbitration under the Arbitration and Conciliation Act, 1996 as amended from time to time.
- 
 * The arbitral tribunal shall consist of a sole arbitrator, who shall be jointly appointed by the Parties to the dispute. If the parties to the dispute are unable to agree on a sole arbitrator within fifteen (15) Business Days after the dispute is referred to arbitration, the tribunal shall consist of three arbitrators, one to be appointed by claimant(s), the second to be appointed by the respondent(s), collectively, with the third arbitrator to be appointed by the first two arbitrators so appointed.
- 
 * The arbitral award shall be final and binding on the Parties and the Parties waive irrevocably any rights to any form of appeal, review or recourse to any state or other judicial Authority in India or elsewhere, insofar as such waiver may validly be made.
- 
 * The seat and venue of the arbitration shall be Bangalore, India. The language of the arbitration shall be English.
-
 * The Parties shall bear their own legal and other costs and expenses necessary to the Dispute, which has been submitted to arbitration in accordance with this Clause, without prejudice to the arbitrator’s right to award costs or require any party to the arbitration to pay the costs and expenses of another party thereto.
- 
 * Any arbitration proceeding hereunder shall be conducted on a confidential basis.
- 
 * The provisions of this Clause shall survive any termination of this Agreement and/or a Secondary Agreement for any reason
 
 ### 13. Exception - Litigation of Intellectual Property and Small Claims Court Claims
