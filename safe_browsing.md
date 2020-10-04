@@ -1,5 +1,3 @@
-Safe Browsing
-
 **Safe Browsing** is a service built to identify unsafe websites across the web and notify users of potential harm.
 
 **SEQR** uses information from Google’s Safe Browsing and other online services that examines billions of URLs and content on those pages in its search for unsafe websites. The service then enables users to make informed decisions about whether or not to trust specific websites and content through real-time security warnings.
