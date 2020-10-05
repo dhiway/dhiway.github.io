@@ -1,6 +1,6 @@
 # PRIVACY POLICY
 
-The mobile application, **'SEQR' - by Dhiway** (**"Application"**) is owned and operated by Dhiway Networks Private Limited, a company incorporated in India under the Companies Act, 2013, having its registered office at 1st floor, Wing A, GoodWorks Infinity Park, 21, 2nd main road, Phase-1, Electronic City, Bangalore - 501100 (**"Company"**).  
+The mobile application, **'SEQR'** (**"Application"**) is owned and operated by Dhiway Networks Private Limited, a company incorporated in India under the Companies Act, 2013, having its registered office at 1st floor, Wing A, GoodWorks Infinity Park, 21, 2nd main road, Phase-1, Electronic City, Bangalore - 501100 (**"Company"**).  
 
 The Company is, inter alia, engaged in the business of developing, hosting and operating **"SEQR"**, which is an Application built to identify unsafe websites across the web and notify users of potential harm (together, the **“Services”**).
 
@@ -10,7 +10,7 @@ This document is published in accordance with the provisions of the Information 
 
 For the purposes of this Privacy Policy, the words “us”, “we”, and “our” refer to the Company and all references to “you”, “your” or “user”, as applicable mean the person who accesses, uses and/or participates in the Application in any manner or capacity.
 
-The protection and security of your personal information is one of our top priorities and we have taken all necessary and reasonable measures to protect the confidentiality of the user information and its transmission through the internet. 
+We have taken all the necessary and resonable measures to protect and secure your personal information and maintain the confidentiality of the user information and its transmission over the internet.
 
 ### **We’re committed to protecting your privacy and collecting only the minimum amount of info needed to provide our software and services. Your use of the Services indicates you agree to this policy and our [Terms of Service](https://github.com/dhiway/dhiway.github.io/blob/master/eula_seqr.md).**
 
@@ -18,13 +18,13 @@ The protection and security of your personal information is one of our top prior
 
 Nothing in this policy contradicts the following statements:
 
-  * We don’t collect any of your personal info, other than information you voluntarily provide.
-  * We don’t sell your personal info to advertisers or other third parties.
-  * We share your personal info only when legally required, or when reasonably necessary to prevent harm in an emergency situation.
-  * We retain your personal info, excluding info you make public, for no more than 30 days after you request deletion.
+  * We do not collect any of your personal information, other than information you voluntarily provide.
+  * We do not sell your personal information to advertisers or other third parties.
+  * We share your personal information only when legally required, or when reasonably necessary to prevent harm in an emergency situation.
+  * We retain your personal information, excluding info you make public, for no more than 30 days after you request deletion.
 
 ### Complete Terms
-As used in this policy, “Personal Info” is data that can identify a particular person or device. Aggregate data isn’t considered Personal Info.
+As used in this policy, “Personal Information” is data that can identify a particular person or device. Aggregate data is not considered Personal Information.
 
 ### 1. Collection of Personally Identifiable Information (PII)
 
@@ -51,7 +51,7 @@ The primary goal of the Company in collecting Personal Information is to provide
   * To notify you about any changes to the Application;
   * To enable the Company to comply with its legal and regulatory obligations;
   * For the purpose of sending administrative notices, Service-related alerts and other similar communication with a view to performing the Services effectively and optimizing the efficiency of the Application;
-  * Doing market research, troubleshooting, protection against error, project planning, fraud and other criminal activity; and
+  * Doing troubleshooting, protection against error, project planning, fraud and other criminal activity; and
   * To enforce the Company’s Terms of Use. 
 
 #### 3.2 Sale of Assets, Merger, Acquisition, Bankruptcy
