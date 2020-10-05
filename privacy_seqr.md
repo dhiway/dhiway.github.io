@@ -12,7 +12,7 @@ For the purposes of this Privacy Policy, the words “us”, “we”, and “ou
 
 We have taken all the necessary and resonable measures to protect and secure your personal information and maintain the confidentiality of the user information and its transmission over the internet.
 
-### **We’re committed to protecting your privacy and collecting only the minimum amount of info needed to provide our software and services. Your use of the Services indicates you agree to this policy and our [Terms of Service](https://github.com/dhiway/dhiway.github.io/blob/master/eula_seqr.md).**
+### **We’re committed to protecting your privacy and collecting only the minimum amount of information needed to provide our software and services. Your use of the Services indicates you agree to this policy and our [Terms of Service](https://github.com/dhiway/dhiway.github.io/blob/master/eula_seqr.md).**
 
 ### Summary
 
