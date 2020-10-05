@@ -137,9 +137,9 @@ The Company pledges that it will not sell or rent your Personal Information to a
 ### 14. Grievance Officer 
 
 * In accordance with the Information Technology Act, 2000 and the rules made thereunder, the name and contact details of the Grievance Officer are provided below:
-	Name: Pradeep KP
-	Contact Number: [+91 80 47113328](+918047113328)
-	Email Id: [grievance.officer@dhiway.com](mailto:grievance.officer@dhiway.com)
+	**Name: Pradeep KP**
+	**Contact Number: [+91 80 47113328](+918047113328)**
+	**Email Id: [grievance.officer@dhiway.com](mailto:grievance.officer@dhiway.com)**
 
 
 ### 15. Address for Privacy Questions 
