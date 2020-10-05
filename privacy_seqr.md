@@ -21,7 +21,7 @@ Nothing in this policy contradicts the following statements:
   * We do not collect any of your personal information, other than information you voluntarily provide.
   * We do not sell your personal information to advertisers or other third parties.
   * We share your personal information only when legally required, or when reasonably necessary to prevent harm in an emergency situation.
-  * We retain your personal information, excluding info you make public, for not more than 30 days after you request deletion.
+  * We retain your personal information, excluding information you make public, for not more than 30 days after you request deletion.
 
 ### Complete Terms
 As used in this policy, “Personal Information” is data that can identify a particular person or device. Aggregate data is not considered Personal Information.
