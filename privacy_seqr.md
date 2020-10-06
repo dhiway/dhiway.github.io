@@ -1,6 +1,6 @@
 # PRIVACY POLICY
 
-The mobile application, **'SEQR' - by Dhiway** (**"Application"**) is owned and operated by Dhiway Networks Private Limited, a company incorporated in India under the Companies Act, 2013, having its registered office at 1st floor, Wing A, GoodWorks Infinity Park, 21, 2nd main road, Phase-1, Electronic City, Bangalore - 501100 (**"Company"**).  
+The mobile application, **'SEQR'** (**"Application"**) is owned and operated by Dhiway Networks Private Limited, a company incorporated in India under the Companies Act, 2013, having its registered office at 1st floor, Wing A, GoodWorks Infinity Park, 21, 2nd main road, Phase-1, Electronic City, Bangalore - 501100 (**"Company"**).  
 
 The Company is, inter alia, engaged in the business of developing, hosting and operating **"SEQR"**, which is an Application built to identify unsafe websites across the web and notify users of potential harm (together, the **“Services”**).
 
@@ -10,21 +10,21 @@ This document is published in accordance with the provisions of the Information 
 
 For the purposes of this Privacy Policy, the words “us”, “we”, and “our” refer to the Company and all references to “you”, “your” or “user”, as applicable mean the person who accesses, uses and/or participates in the Application in any manner or capacity.
 
-The protection and security of your personal information is one of our top priorities and we have taken all necessary and reasonable measures to protect the confidentiality of the user information and its transmission through the internet. 
+We have taken all the necessary and resonable measures to protect and secure your personal information and maintain the confidentiality of the user information and its transmission over the internet.
 
-### **We’re committed to protecting your privacy and collecting only the minimum amount of info needed to provide our software and services. Your use of the Services indicates you agree to this policy and our [Terms of Service](https://github.com/dhiway/dhiway.github.io/blob/master/eula_seqr.md).**
+### **We’re committed to protecting your privacy and collecting only the minimum amount of information needed to provide our software and services. Your use of the Services indicates you agree to this policy and our [Terms of Service](https://github.com/dhiway/dhiway.github.io/blob/master/eula_seqr.md).**
 
 ### Summary
 
 Nothing in this policy contradicts the following statements:
 
-  * We don’t collect any of your personal info, other than information you voluntarily provide.
-  * We don’t sell your personal info to advertisers or other third parties.
-  * We share your personal info only when legally required, or when reasonably necessary to prevent harm in an emergency situation.
-  * We retain your personal info, excluding info you make public, for no more than 30 days after you request deletion.
+  * We do not collect any of your personal information, other than information you voluntarily provide.
+  * We do not sell your personal information to advertisers or other third parties.
+  * We share your personal information only when legally required, or when reasonably necessary to prevent harm in an emergency situation.
+  * We retain your personal information, excluding information you make public, for not more than 30 days after you request deletion.
 
 ### Complete Terms
-As used in this policy, “Personal Info” is data that can identify a particular person or device. Aggregate data isn’t considered Personal Info.
+As used in this policy, “Personal Information” is data that can identify a particular person or device. Aggregate data is not considered Personal Information.
 
 ### 1. Collection of Personally Identifiable Information (PII)
 
@@ -51,14 +51,14 @@ The primary goal of the Company in collecting Personal Information is to provide
   * To notify you about any changes to the Application;
   * To enable the Company to comply with its legal and regulatory obligations;
   * For the purpose of sending administrative notices, Service-related alerts and other similar communication with a view to performing the Services effectively and optimizing the efficiency of the Application;
-  * Doing market research, troubleshooting, protection against error, project planning, fraud and other criminal activity; and
+  * Doing troubleshooting, protection against error, project planning, fraud and other criminal activity; and
   * To enforce the Company’s Terms of Use. 
 
 #### 3.2 Sale of Assets, Merger, Acquisition, Bankruptcy
 
 Information collected from you may be transferred to a third party as a result of a sale or acquisition, merger or bankruptcy involving the Company. 
 
-#### 3.2 Cookies
+#### 3.3 Cookies
 
 Cookies are small portions of information saved by your browser onto your computer / mobile / tablet or other devices. Cookies are used to record various aspects of your visit and assist the Company to provide you with uninterrupted service. 
 
@@ -70,11 +70,11 @@ Cookies are small portions of information saved by your browser onto your comput
 Other than as mentioned elsewhere in this Privacy Policy, the Company may share aggregated demographic information with the Company’s partners or affiliates. This is not linked to any Personal Information that can identify an individual person. The Company will not be liable for transfer of any Personal Information resulting from loss or distribution of data, or corruption of media storage, power failures, natural phenomena, riots, act(s) of vandalism, sabotage, terrorism and any other event beyond the Company’s reasonable control. Further, the Company’s Privacy Policy does not cover the use of cookies by its partners and affiliates since the Company does not have access or control over such cookies. 
 
 
-#### 4.1 Regulatory Disclosures
+#### 4.2 Regulatory Disclosures
 
 In the event the Company is required to disclose any Personal Information by law, rule, regulation, enforcement, governmental official, legal or regulatory authorities or any other statutory bodies, court orders or other legal process or for any tax authorities (“Required Disclosures”), your Personal Information may be disclosed pursuant to such Required Disclosures. Required Disclosures may be made without notice to you. The Company may further disclose your Personal Information to such third parties to whom it transfers its rights and duties under any agreement entered into with such third parties and may also disclose your Personal Information to any of its affiliates or related entity.
 
-#### 4.1 Link to Third Party Applications
+#### 4.3 Link to Third Party Applications
 
 This Application may contain links which may lead you to other Applications.  Please note that once you leave the Company’s Application you will be subjected to the privacy policy of the other Application. The linked sites are not necessarily under the control of the Company. Please be aware that the Company is not responsible for the privacy practices of such other Applications. The Company encourages you to read the privacy policies of each and every Application that collects Personal Information. If you decide to access any of third-party sites linked to the Application, you do this entirely at your own risk. Any links to any third-party partner of the Company should be the responsibility of such third party providing the linking facility, and the Company will not be responsible for notification of any change in the name or location of any information on the third-party Application.
 
@@ -137,9 +137,9 @@ The Company pledges that it will not sell or rent your Personal Information to a
 ### 14. Grievance Officer 
 
 * In accordance with the Information Technology Act, 2000 and the rules made thereunder, the name and contact details of the Grievance Officer are provided below:
-	Name: Pradeep KP
-	Contact Number: [+91 80 47113328](+918047113328)
-	Email Id: [grievance.officer@dhiway.com](mailto:grievance.officer@dhiway.com)
+	**Name: Pradeep KP**
+	**Contact Number: [+91 80 47113328](+918047113328)**
+	**Email Id: [grievance.officer@dhiway.com](mailto:grievance.officer@dhiway.com)**
 
 
 ### 15. Address for Privacy Questions 
