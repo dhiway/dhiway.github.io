@@ -5,45 +5,56 @@
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156659935-1"></script>
 	<script>
 	  window.dataLayer = window.dataLayer || [];
-  	  function gtag(){dataLayer.push(arguments);}
-  	  gtag('js', new Date());
-  	  gtag('config', 'UA-156659935-1');
-	</script>	
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'UA-156659935-1');
+	</script>
     <meta charset="UTF-8">
-    
+
     <!-- <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script> -->
 
     <script>
-        var OSName="Unknown OS";
-        
-        if (navigator.appVersion.indexOf("iPhone")!=-1) OSName="iOS";
-        if (navigator.appVersion.indexOf("Android")!=-1) OSName="Android";
-        if (navigator.appVersion.indexOf("Linux")!=-1) OSName="Android";
-        if (navigator.appVersion.indexOf("Mac")!=-1) OSName="MacOS";
-        if (navigator.appVersion.indexOf("X11")!=-1) OSName="UNIX";
-        if (navigator.appVersion.indexOf("Win")!=-1) OSName="Windows";
+	var OSName="Unknown OS";
 
-        if (OSName === "iOS") {
-            window.location.href = 'http://itunes.apple.com/lb/app/truecaller-caller-id-number/id448142450?mt=8';
-        } 
+	if (navigator.appVersion.indexOf("iPhone")!=-1) OSName="iOS";
+	if (navigator.appVersion.indexOf("Android")!=-1) OSName="Android";
+	if (navigator.appVersion.indexOf("Linux")!=-1) OSName="Linux";
+	if (navigator.appVersion.indexOf("Mac")!=-1) OSName="MacOS";
+	if (navigator.appVersion.indexOf("X11")!=-1) OSName="UNIX";
+	if (navigator.appVersion.indexOf("Win")!=-1) OSName="Windows";
 
-        if (OSName === "Android") {
-            window.location.href = 'http://play.google.com/store/apps/details?id=com.truecaller&hl=en';
-        }
+	if (OSName === "iOS") {
+	  window.location.href = 'https://dhiway.com/seqr';
+	  return;
+	}
 
-        if (OSName === "MacOS") {
-            window.location.href = 'http://itunes.apple.com/lb/app/truecaller-caller-id-number/id448142450?mt=8';
-        } 
+	if (OSName === "Android") {
+	  window.location.href = 'https://play.google.com/store/apps/details?id=com.dhiway.app.seqr&hl=en';
+	  return;
+	}
 
-        if (OSName === "UNIX") {
-            window.location.href = 'http://play.google.com/store/apps/details?id=com.truecaller&hl=en';
-        }
-         
-        if (OSName === "Windows") {
-            window.location.href = 'http://itunes.apple.com/lb/app/truecaller-caller-id-number/id448142450?mt=8';
-        } 
+	if (OSName === "Linux") {
+	  window.location.href = 'https://dhiway.com/seqr';
+	  return;
+	}
 
-console.log("OSName", OSName);
+	if (OSName === "MacOS") {
+	  window.location.href = 'https://dhiway.com/seqr';
+	  return;
+	}
+
+	if (OSName === "UNIX") {
+	  window.location.href = 'https://dhiway.com/seqr';
+	  return;
+	}
+
+	if (OSName === "Windows") {
+	  window.location.href = 'https://dhiway.com/seqr';
+	  return;
+	}
+
+	console.log("OSName", OSName);
+	window.location.href = 'https://dhiway.com/seqr';
 
     </script>
 </head>
