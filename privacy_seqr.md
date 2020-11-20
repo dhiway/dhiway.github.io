@@ -1,3 +1,24 @@
+# Summary
+
+Our Privacy Policy is provided below in entirety. This summary provides an insight into our privacy practices. We intend to continue to communicate and provide meaningful notices when we make changes to our privacy practices.
+
+Nothing in this policy contradicts the following statements:
+
+## Collection of data
+
+  * We do not collect any of your personal information, other than information you voluntarily provide.
+  * We do not sell your personal information to advertisers or other third parties.
+  * We share your personal information only when legally required, or when reasonably necessary to prevent harm in an emergency situation.
+  * We do not have access to your contact list unless you allow us access
+  * We retain your personal information, excluding information you make public, for not more than 30 days after you request deletion.
+
+  ## Privacy controls
+
+  * We do not share your activity and/or usage history for the app
+  * We do not share your location data - either in coarse or precise form
+  * We do not track your activities on the device when using other apps or sites
+  * We do not listen/record using the device microphone
+  
 # PRIVACY POLICY
 
 The mobile application, **'SEQR'** (**"Application"**) is owned and operated by Dhiway Networks Private Limited, a company incorporated in India under the Companies Act, 2013, having its registered office at 1st floor, Wing A, GoodWorks Infinity Park, 21, 2nd main road, Phase-1, Electronic City, Bangalore - 501100 (**"Company"**).  
@@ -13,15 +34,6 @@ For the purposes of this Privacy Policy, the words “us”, “we”, and “ou
 We have taken all the necessary and resonable measures to protect and secure your personal information and maintain the confidentiality of the user information and its transmission over the internet.
 
 ### **We’re committed to protecting your privacy and collecting only the minimum amount of information needed to provide our software and services. Your use of the Services indicates you agree to this policy and our [Terms of Service](https://github.com/dhiway/dhiway.github.io/blob/master/eula_seqr.md).**
-
-### Summary
-
-Nothing in this policy contradicts the following statements:
-
-  * We do not collect any of your personal information, other than information you voluntarily provide.
-  * We do not sell your personal information to advertisers or other third parties.
-  * We share your personal information only when legally required, or when reasonably necessary to prevent harm in an emergency situation.
-  * We retain your personal information, excluding information you make public, for not more than 30 days after you request deletion.
 
 ### Complete Terms
 As used in this policy, “Personal Information” is data that can identify a particular person or device. Aggregate data is not considered Personal Information.
