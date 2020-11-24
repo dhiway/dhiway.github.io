@@ -2,11 +2,12 @@
 
 Our Privacy Policy is provided below in entirety. This summary provides an insight into our privacy practices. We intend to continue to communicate and provide meaningful notices when we make changes to our privacy practices.
 
-Nothing in this policy contradicts the following statements:
+Nothing in this policy contradicts the following statements.
 
 ## Collection of data
 
-  * We do not collect any of your personal information, other than information you voluntarily provide.
+  * We do not collect any of your personal information (including personally identifiable information), other than information you voluntarily provide.
+  * We do not collect any sensitive information such as racial or ethnic data, sexual orientation, pregnancy or childbirth information, disability, religious or philosophical beliefs, trade union membership, political opinion, genetic information, or biometric data
   * We do not sell your personal information to advertisers or other third parties.
   * We share your personal information only when legally required, or when reasonably necessary to prevent harm in an emergency situation.
   * We do not have access to your contact list unless you allow us access
@@ -15,9 +16,15 @@ Nothing in this policy contradicts the following statements:
   ## Privacy controls
 
   * We do not share your activity and/or usage history for the app
-  * We do not share your location data - either in coarse or precise form
+  * We do not share information about searches performed in the app
+  * We do not share your location data - either in coarse or precise form (as a latitude and longitude with three or more decimal places)
   * We do not track your activities on the device when using other apps or sites
   * We do not listen/record using the device microphone
+  
+  ## Data use
+  
+  * We do not display 3rd party advertisements in the app, or share the data with entities who display such ads
+  * We do not track usage patterns data to evaluate user behavior, including to understand the effectiveness of existing product features, plan new features, or measure audience size or characteristics
   
 # PRIVACY POLICY
 
